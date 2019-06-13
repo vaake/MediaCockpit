@@ -1,0 +1,6 @@
+Description: MediaCockpit
+Maintainer: dream-alpha
+Package: enigma2-plugin-extensions-mediacockpit
+Version: 0.1.0
+Architecture: all
+Depends: python-imaging
